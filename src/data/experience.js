@@ -11,24 +11,23 @@ const ExperienceData = [
     ],
   },
    {
-    title: "Web Development Intern",
-    company: "Cognifyz",
-    duration: "July 2024 - Augest 2024",
+    title: "Web Development Back-End Intern",
+    company: "One Stop",
+    duration: "MAR 2025 - APR 2025",
     description: [
-      "Designed and developed a responsive website using HTML, CSS, and JavaScript.",
-      "Built core features like product listings, shopping cart, and checkout flow.",
-      "Focused on user-friendly UI/UX with clean layout and smooth navigation.",
-      "Enhanced skills in frontend development, problem-solving, and project design.",
+      "Developed and optimized RESTful APIs using Node.js and Express.",
+      
+      "Designed and managed database schemas to improve performance and scalability.",
     ],
   },
   {
     title: "Full Stack Developer Intern",
-    company: "PRODIGY INFOTECH",
-    duration: "JULY 2025 - JULY 2025",
+    company: "Techno Hacks Solutions",
+    duration: "OCT 2025 - Present",
     description: [
-      "Gained hands-on experience in React.js, Node.js, and MongoDB.",
-      "Developed a Hospital Management System with patient & staff modules.",
-      "Built responsive UI, backend APIs, and managed databases effectively.",
+      "Built responsive and dynamic user interfaces using React.js, improving user engagement by 35%.",
+      
+      "Built and integrated backend APIs with Node.js and managed data using MongoDB",
       
     ],
   },
